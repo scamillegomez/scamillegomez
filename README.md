@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sydney Camille Gomez</h1>
 <h3 align="center">Curiosity didn't kill the cat; It made me a coder. :)</h3>
 
-- 🔭 I’m currently working on **a production spoilage analysis and implementation project.**
+- 🔭 I’m currently working on **a full stack web development and deployment project for an application that allows users to share their interpretation of songs.**
 
-- 🌱 I’m currently learning **React and Cypress.io**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **business optimization projects**
 
