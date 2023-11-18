@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sydney Camille Gomez</h1>
+<h1 align="center">Hi 👋, I'm Sydney Camille Robinson</h1>
 <h3 align="center">Curiosity didn't kill the cat; It made me a coder. :)</h3>
 
 - 🔭 I’m currently working on **a full stack web development and deployment project for an application that allows users to share their interpretation of songs.**
